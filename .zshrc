@@ -106,9 +106,9 @@ alias activate='source .venv/bin/activate'
 
 # ── 13. ALIASES: TOOLS & ENTERTAINMENT ──────────────────────────
 alias postman='posting'
-alias monkeytype='smassh'
+alias montype='smassh'
 alias anime='ani-cli'
-alias music='rmpc'
+alias song='rmpc'
 addyt() {
   rmpc addyt "$*"
 }
@@ -224,7 +224,7 @@ fi
 # ── 17. YAZI — file manager with cwd-on-exit ────────────────────
 # y() wraps yazi so the shell follows its last directory.
 # Ctrl+Y opens yazi.
-y() {
+yz() {
   local tmp cwd
   tmp="$(mktemp -t "yazi-cwd.XXXXXX")" || return
   command yazi "$@" --cwd-file="$tmp"
