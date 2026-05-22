@@ -482,3 +482,34 @@ Note: Hit end of (available) data during resync.
 2026-05-20T12:05:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
 2026-05-20T12:05:02 ffmpeg/aac: Could not update timestamps for skipped samples.
 2026-05-20T14:08:45 player: played "[SPOTIFY-DOWNLOADER.COM] I Like Me Better.mp3"
+2026-05-21T00:06:16 player: played "owqEQcVAFaE.opus"
+2026-05-21T12:33:05 player: played "owqEQcVAFaE.opus"
+2026-05-21T15:04:45 player: played "owqEQcVAFaE.opus"
+2026-05-21T20:01:02 player: played "owqEQcVAFaE.opus"
+2026-05-21T21:02:45 player: played "[SPOTIFY-DOWNLOADER.COM] Fall in Love with You..mp3"
+2026-05-21T23:50:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-21T23:50:48 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-05-21T23:50:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-21T23:50:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-21T23:50:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-21T23:50:48 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-05-21T23:50:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-21T23:54:02 player: played "[SPOTIFY-DOWNLOADER.COM] Chaand Baaliyan.mp3"
+2026-05-21T23:56:43 player: played "[SPOTIFY-DOWNLOADER.COM] Like Strangers Do.mp3"
+2026-05-21T23:57:50 player: played "[SPOTIFY-DOWNLOADER.COM] Tere Sath Mein.mp3"
+2026-05-22T00:00:55 player: played "[SPOTIFY-DOWNLOADER.COM] IDK You Yet.mp3"
+2026-05-22T00:04:25 player: played "[SPOTIFY-DOWNLOADER.COM] Salamat (From -Sarbjit-) (feat. Arijit Singh, Tulsi Kumar).mp3"
+2026-05-22T00:08:45 player: played "[SPOTIFY-DOWNLOADER.COM] Soch Na Sake.mp3"
+2026-05-22T00:12:23 player: played "[SPOTIFY-DOWNLOADER.COM] Jaan Hai Meri.mp3"
+2026-05-22T00:34:45 player: played "[SPOTIFY-DOWNLOADER.COM] Main Rahoon Ya Na Rahoon.mp3"
+2026-05-22T00:39:23 player: played "[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3"
+2026-05-22T01:47:10 player: played "[SPOTIFY-DOWNLOADER.COM] Ek Tukda Dhoop (From _Thappad_).mp3"
+2026-05-22T14:15:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-22T14:15:59 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-05-22T14:15:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-22T14:15:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-05-22T14:15:59 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-05-22T14:59:34 pipewire_output: Decoder is too slow; playing silence to avoid xrun
+2026-05-22T15:02:59 player: played "[SPOTIFY-DOWNLOADER.COM] Kho Gaye.mp3"
+2026-05-22T15:05:08 player: played "[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3"
+2026-05-22T15:39:50 player: played "[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3"

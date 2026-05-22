@@ -1,0 +1,5 @@
+{"agent_servers": {"codex-acp":{"type":"registry"}}, "context_servers": {"mcp-server-context7":{"enabled":true,"remote":false,"settings":{"context7_api_key":"ctx7sk-2ab83fa7-0507-478d-adca-d75a403c0c3d"}}}, "agent": {"dock":"right","favorite_models":[],"model_parameters":[]}, "project_panel": {"dock":"left"}, "icon_theme": "Zed (Default)", "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark"
+  }}

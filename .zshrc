@@ -13,6 +13,7 @@ path_prepend "$HOME/.local/bin"
 path_prepend "$HOME/.cargo/bin"
 path_prepend "$HOME/.opencode/bin"
 path_prepend "$HOME/.clispot/bin"
+path_prepend "usr/local/bin"
 export PATH
 
 # ── 2. CORE ENVIRONMENT ─────────────────────────────────────────
@@ -50,6 +51,8 @@ zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 alias vi='micro'
 alias vim='micro'
 alias nano='micro'
+alias zed='zeditor'
+alias appimage='am --launcher'
 alias shutdown='poweroff'
 # ── 6. ALIASES: MODERN CLI REPLACEMENTS ─────────────────────────
 # eza — replaces ls with icons, git-awareness, and directory grouping.
@@ -224,7 +227,7 @@ fi
 # ── 17. YAZI — file manager with cwd-on-exit ────────────────────
 # y() wraps yazi so the shell follows its last directory.
 # Ctrl+Y opens yazi.
-yz() {
+y() {
   local tmp cwd
   tmp="$(mktemp -t "yazi-cwd.XXXXXX")" || return
   command yazi "$@" --cwd-file="$tmp"
@@ -359,3 +362,6 @@ source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # ║  END                                                        ║
 # ╚══════════════════════════════════════════════════════════════╝
  
+autoload bashcompinit
+bashcompinit
+source "/home/eren/.local/share/bash-completion/completions/am"
