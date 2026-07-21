@@ -54,6 +54,7 @@ alias nano='micro'
 alias zed='zeditor'
 alias appimage='am --launcher'
 alias shutdown='poweroff'
+alias vpn='lazyvpn'
 # ── 6. ALIASES: MODERN CLI REPLACEMENTS ─────────────────────────
 # eza — replaces ls with icons, git-awareness, and directory grouping.
 if command -v eza &>/dev/null; then
@@ -365,3 +366,7 @@ source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 autoload bashcompinit
 bashcompinit
 source "/home/eren/.local/share/bash-completion/completions/am"
+
+
+# Added by Antigravity CLI installer
+export PATH="/home/eren/.local/bin:$PATH"

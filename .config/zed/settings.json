@@ -1,11 +1,18 @@
 {
+  "colorize_brackets": true,
+  "cli_default_open_behavior": "existing_window",
   "git": {
     "hunk_style": "staged_hollow",
     "enable_diff": true,
     "git_gutter": "tracked_files",
     "enable_status": true
   },
-  "agent_servers": { "codex-acp": { "type": "registry" } },
+  "agent_servers": { "codex-acp": { "favorite_config_option_values": {
+                                                "reasoning_effort": [
+                                                            "medium"
+                                                ]
+                                    },
+                                    "type": "registry" } },
   "context_servers": {
     "mcp-server-context7": {
       "enabled": true,

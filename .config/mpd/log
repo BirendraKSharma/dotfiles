@@ -513,3 +513,410 @@ Note: Hit end of (available) data during resync.
 2026-05-22T15:02:59 player: played "[SPOTIFY-DOWNLOADER.COM] Kho Gaye.mp3"
 2026-05-22T15:05:08 player: played "[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3"
 2026-05-22T15:39:50 player: played "[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3"
+2026-05-25T02:21:42 player: played "[SPOTIFY-DOWNLOADER.COM] Tere Hawale (Arijit - Shreya Duet).mp3"
+2026-05-25T13:19:16 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-25T19:06:02 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-25T20:24:50 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-26T10:59:10 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-26T21:39:49 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-27T00:57:01 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-27T10:50:04 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-27T18:37:00 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-28T02:05:25 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-28T16:13:34 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-28T18:45:36 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-29T02:01:48 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-31T01:09:02 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-05-31T17:58:08 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+Note: Illegal Audio-MPEG-Header 0x20200d0a at offset 5847305.
+Note: Trying to resync...
+Note: Hit end of (available) data during resync.
+2026-05-31T23:58:01 player: played "Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3"
+2026-06-01T00:02:20 player: played "[SPOTIFY-DOWNLOADER.COM] Lambiyaan Si Judaiyaan (From -Raabta-).mp3"
+2026-06-01T00:15:28 exception: Failed to open /home/eren/.config/mpd/playlists: No such file or directory
+2026-06-01T00:15:33 update: added /Adore You.mp3
+2026-06-01T00:15:33 update: added /At My Worst.mp3
+2026-06-01T00:15:33 update: added /Bad Thing.mp3
+2026-06-01T00:15:33 update: added /Be More.mp3
+2026-06-01T00:15:33 update: added /Blue Jeans.mp3
+2026-06-01T00:15:33 update: added /Can't Help Falling in Love.mp3
+2026-06-01T00:15:33 update: added /Date Night (feat. Morgan Evans).mp3
+2026-06-01T00:15:33 update: added /Electric Love.mp3
+2026-06-01T00:15:33 update: added /Evangeline.mp3
+2026-06-01T00:15:33 update: added /Eyes Closed.mp3
+2026-06-01T00:15:33 update: added /Eyes Off You.mp3
+2026-06-01T00:15:33 update: added /Favorite Song.mp3
+2026-06-01T00:15:33 update: added /Feels Like You.mp3
+2026-06-01T00:15:33 update: added /Forever and Ever and Always.mp3
+2026-06-01T00:15:33 update: added /Happiest Year.mp3
+2026-06-01T00:15:33 update: added /Here With Me.mp3
+2026-06-01T00:15:33 update: added /I.F.L.Y..mp3
+2026-06-01T00:15:33 update: added /I GUESS I'M IN LOVE.mp3
+2026-06-01T00:15:33 update: added /I'm Yours.mp3
+2026-06-01T00:15:33 update: added /I See You.mp3
+2026-06-01T00:15:33 update: added /Leave a Light On.mp3
+2026-06-01T00:15:33 update: added /Left and Right (Feat. Jung Kook of BTS).mp3
+2026-06-01T00:15:33 update: added /Little Bit More.mp3
+2026-06-01T00:15:33 update: added /Love Me.mp3
+2026-06-01T00:15:33 update: added /Love You Still (abcdefu romantic version).mp3
+2026-06-01T00:15:33 update: added /Make You Mine.mp3
+2026-06-01T00:15:33 update: added /Melting.mp3
+2026-06-01T00:15:33 update: added /On My Mind.mp3
+2026-06-01T00:15:33 update: added /Rose - English Version.mp3
+2026-06-01T00:15:33 update: added /See The Light.mp3
+2026-06-01T00:15:33 update: added /Sky is the Limit.mp3
+2026-06-01T00:15:33 update: added /Someone To You.mp3
+2026-06-01T00:15:33 update: added /stupid.mp3
+2026-06-01T00:15:33 update: added /Sweet to Me.mp3
+2026-06-01T00:15:34 update: added /The Ballet Girl.mp3
+2026-06-01T00:15:34 update: added /The Way I Love You.mp3
+2026-06-01T00:15:34 update: added /Until I Found You.mp3
+2026-06-01T00:15:34 update: added /Weak.mp3
+2026-06-01T00:15:34 update: added /Bardali - PagalHits.mp3
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Love You With All My Heart - Crush.m4a
+2026-06-01T00:15:34 update: added /[MV] Heize(헤이즈) - Hold Me Back(멈춰줘) (320).mp3
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /nadaaniyan - Akshath.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Naina (From  Crew ) - Diljit Dosanjh, Badshah, Raj Ranjodh.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Oonchi Oonchi Deewarein (From  Yaariyan 2 ) - Manan Bhardwaj, Arijit Singh.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Samjho Na - Aditya Rikhari.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Suzume - RADWIMPS, Toaka.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Tell Me It's Not a Dream - 10CM.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /Tere Sang Ishq Hua (From  Yodha ) - Tanishk Bagchi, Arijit Singh, Neeti Mohan, Kunaal Vermaa.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /The Journey - Kelley McRae.m4a
+2026-06-01T00:15:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T00:15:34 update: added /What It Is (Block Boy) (with Kodak Black) - Doechii, Kodak Black.m4a
+2026-06-01T00:15:34 update: added /waving flag.opus
+2026-06-01T00:15:34 update: removing Spotube/Samjho Na - Aditya Rikhari.m4a
+2026-06-01T00:15:34 update: removing Spotube/Love You With All My Heart - Crush.m4a
+2026-06-01T00:15:34 update: removing Spotube/Tell Me It's Not a Dream - 10CM.m4a
+2026-06-01T00:15:34 update: removing Spotube/Oonchi Oonchi Deewarein (From  Yaariyan 2 ) - Manan Bhardwaj, Arijit Singh.m4a
+2026-06-01T00:15:34 update: removing Spotube/Naina (From  Crew ) - Diljit Dosanjh, Badshah, Raj Ranjodh.m4a
+2026-06-01T00:15:34 update: removing Spotube/nadaaniyan - Akshath.m4a
+2026-06-01T00:15:34 update: removing Spotube/[MV] Heize(헤이즈) - Hold Me Back(멈춰줘) (320).mp3
+2026-06-01T00:15:34 update: removing Samsung/Over_the_Horizon.m4a
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Rose - English Version.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Leave a Light On.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Weak.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] I'm Yours.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Until I Found You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] I See You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] The Way I Love You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] At My Worst.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] The Ballet Girl.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] stupid.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] I.F.L.Y..mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] On My Mind.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Melting.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Eyes Off You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] I GUESS I'M IN LOVE.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Make You Mine.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Love You Still (abcdefu romantic version).mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Love Me.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Little Bit More.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Can't Help Falling in Love.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Here With Me.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Sky is the Limit.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Happiest Year.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Forever and Ever and Always.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Adore You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Feels Like You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Favorite Song.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Eyes Closed.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Evangeline.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Someone To You.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] See The Light.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Sweet to Me.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Electric Love.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Date Night (feat. Morgan Evans).mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Left and Right (Feat. Jung Kook of BTS).mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Blue Jeans.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Be More.mp3
+2026-06-01T00:15:34 update: removing [SPOTIFY-DOWNLOADER.COM] Love Songs 2024 - English Love Songs - Romantic Songs 2024/[SPOTIFY-DOWNLOADER.COM] Bad Thing.mp3
+2026-06-01T00:15:34 update: removing youtube/WTJSt4wP2ME.opus
+2026-06-01T00:15:34 update: removing Spotube/The Journey - Kelley McRae.m4a
+2026-06-01T00:15:34 update: removing Spotube/What It Is (Block Boy) (with Kodak Black) - Doechii, Kodak Black.m4a
+2026-06-01T00:15:34 update: removing Spotube/Bardali - PagalHits.mp3
+2026-06-01T00:15:34 update: removing Spotube/Tere Sang Ishq Hua (From  Yodha ) - Tanishk Bagchi, Arijit Singh, Neeti Mohan, Kunaal Vermaa.m4a
+2026-06-01T00:15:34 update: removing Spotube/Suzume - RADWIMPS, Toaka.m4a
+2026-06-01T00:15:39 exception: Failed to open /home/eren/.config/mpd/playlists: No such file or directory
+2026-06-01T00:15:52 player: played "[SPOTIFY-DOWNLOADER.COM] Cold.mp3"
+2026-06-01T00:15:56 player: played "[SPOTIFY-DOWNLOADER.COM] Tere Sath Mein.mp3"
+2026-06-01T00:15:58 player: played "[SPOTIFY-DOWNLOADER.COM] Tere Sath Mein.mp3"
+2026-06-01T00:16:00 player: played "[SPOTIFY-DOWNLOADER.COM] Like Strangers Do.mp3"
+2026-06-01T00:19:32 player: played "[SPOTIFY-DOWNLOADER.COM] What If I Told You That I Love You.mp3"
+2026-06-01T02:07:19 player: played "[SPOTIFY-DOWNLOADER.COM] Here's Your Perfect.mp3"
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:32:00 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-06-01T18:32:05 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-06-01T18:32:05 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-06-01T18:51:29 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-01T18:52:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:52:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:52:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:52:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:52:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:53:00 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-01T18:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:53:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T18:56:11 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-01T22:30:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T22:30:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T22:30:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T22:30:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-01T22:30:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T01:15:39 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-02T11:07:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T11:07:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T11:07:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T11:07:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T11:07:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T12:15:25 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-02T16:14:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T16:14:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T16:14:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T16:14:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T16:14:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T19:02:35 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-02T21:23:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T21:23:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T21:23:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T21:23:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T21:23:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-02T22:45:18 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-03T19:49:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-03T19:49:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-03T19:49:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-03T19:49:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-03T19:49:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-03T20:06:11 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-05T20:25:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-05T20:25:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-05T20:25:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-05T20:25:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-05T20:25:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-05T21:24:02 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-06T10:30:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-06T10:30:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-06T10:30:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-06T10:30:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-06T10:30:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T00:16:42 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-07T12:24:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T12:24:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T12:24:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T12:24:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T12:24:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T13:47:08 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-07T20:28:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T20:28:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T20:28:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T20:28:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T20:28:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-07T21:04:45 player: played "Tell Me It's Not a Dream - 10CM.m4a"
+2026-06-08T00:36:01 player: played "Adore You.mp3"
+2026-06-08T11:45:01 player: played "Adore You.mp3"
+2026-06-08T18:50:35 player: played "Adore You.mp3"
+2026-06-09T02:49:33 player: played "Adore You.mp3"
+2026-06-10T00:03:32 player: played "Adore You.mp3"
+2026-06-10T15:20:45 player: played "Adore You.mp3"
+2026-06-10T20:53:28 player: played "Adore You.mp3"
+2026-06-10T21:09:33 player: played "Adore You.mp3"
+2026-06-11T03:06:11 player: played "Adore You.mp3"
+2026-06-11T16:26:56 player: played "Adore You.mp3"
+2026-06-11T20:42:27 player: played "Adore You.mp3"
+2026-06-11T21:05:59 player: played "Adore You.mp3"
+2026-06-12T03:55:42 player: played "See The Light.mp3"
+2026-06-12T12:14:46 player: played "See The Light.mp3"
+2026-06-13T00:02:03 player: played "See The Light.mp3"
+2026-06-13T11:48:38 player: played "See The Light.mp3"
+2026-06-14T14:55:40 player: played "See The Light.mp3"
+2026-06-15T03:45:15 player: played "See The Light.mp3"
+2026-06-16T01:50:32 player: played "See The Light.mp3"
+2026-06-16T14:44:37 player: played "See The Light.mp3"
+2026-06-17T02:55:43 player: played "See The Light.mp3"
+2026-06-17T17:12:25 player: played "See The Light.mp3"
+2026-06-18T00:33:34 player: played "See The Light.mp3"
+2026-06-18T13:07:56 player: played "See The Light.mp3"
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-18T21:07:41 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-06-18T21:07:48 ffmpeg/opus: Could not update timestamps for skipped samples.
+2026-06-18T21:10:33 ffmpeg/opus: Could not update timestamps for discarded samples.
+2026-06-18T21:10:51 player: played "rhianne - Somewhere Only We Know (Lyrics) - Prestige Vibes.m4a"
+2026-06-18T22:42:10 player: played "waving flag.opus"
+2026-06-19T18:09:36 player: played "waving flag.opus"
+2026-06-20T00:27:14 player: played "waving flag.opus"
+2026-06-20T11:13:21 player: played "waving flag.opus"
+2026-06-20T22:27:33 player: played "waving flag.opus"
+2026-06-20T22:30:08 player: played "[SPOTIFY-DOWNLOADER.COM] Thinkin Bout You.mp3"
+2026-06-20T22:34:41 player: played "[SPOTIFY-DOWNLOADER.COM] Blame It On Me.mp3"
+2026-06-20T22:40:04 player: played "[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3"
+2026-06-20T22:44:06 player: played "Be More.mp3"
+2026-06-20T22:47:32 player: played "[SPOTIFY-DOWNLOADER.COM] Paniyon Sa.mp3"
+2026-06-20T22:50:59 player: played "[SPOTIFY-DOWNLOADER.COM] Big Lie.mp3"
+2026-06-20T22:53:58 player: played "KzBa4ZKTVjE.opus"
+2026-06-20T22:56:56 player: played "[SPOTIFY-DOWNLOADER.COM] ily (i love you baby) (feat. Emilee).mp3"
+2026-06-20T23:48:52 player: played "Until I Found You.mp3"
+2026-06-21T15:06:50 player: played "Until I Found You.mp3"
+2026-06-22T00:00:28 player: played "Until I Found You.mp3"
+2026-06-22T14:19:27 player: played "Until I Found You.mp3"
+2026-06-22T19:28:42 player: played "Until I Found You.mp3"
+2026-06-23T01:22:41 player: played "Until I Found You.mp3"
+2026-06-23T12:47:26 player: played "Until I Found You.mp3"
+2026-06-23T16:41:02 player: played "Until I Found You.mp3"
+2026-06-23T20:05:06 player: played "Until I Found You.mp3"
+2026-06-24T01:33:03 player: played "Until I Found You.mp3"
+2026-06-24T17:19:56 player: played "Until I Found You.mp3"
+2026-06-25T05:56:36 player: played "Until I Found You.mp3"
+2026-06-25T11:49:04 player: played "Until I Found You.mp3"
+2026-06-25T19:01:06 player: played "Until I Found You.mp3"
+2026-06-26T04:18:51 player: played "Until I Found You.mp3"
+2026-06-27T02:33:03 player: played "Until I Found You.mp3"
+2026-06-27T15:42:41 player: played "Until I Found You.mp3"
+2026-06-28T00:03:42 player: played "Until I Found You.mp3"
+2026-06-29T00:22:18 player: played "Until I Found You.mp3"
+2026-06-29T10:38:53 player: played "Until I Found You.mp3"
+2026-06-29T18:31:31 player: played "Until I Found You.mp3"
+2026-06-30T02:43:40 player: played "Until I Found You.mp3"
+2026-06-30T10:18:19 player: played "Until I Found You.mp3"
+2026-06-30T16:44:57 player: played "Until I Found You.mp3"
+2026-06-30T17:45:27 player: played "Until I Found You.mp3"
+2026-06-30T18:53:58 player: played "Until I Found You.mp3"
+2026-07-01T01:54:50 player: played "Until I Found You.mp3"
+2026-07-01T02:23:38 player: played "Until I Found You.mp3"
+2026-07-01T11:55:31 player: played "Until I Found You.mp3"
+2026-07-01T18:02:46 player: played "Until I Found You.mp3"
+2026-07-08T19:27:43 player: played "Until I Found You.mp3"
+2026-07-09T01:33:56 player: played "Until I Found You.mp3"
+2026-07-13T00:24:31 player: played "Until I Found You.mp3"
+2026-07-13T11:47:41 player: played "Until I Found You.mp3"
+2026-07-14T01:11:49 player: played "Until I Found You.mp3"
+2026-07-14T11:09:29 player: played "Until I Found You.mp3"
+2026-07-15T02:57:16 player: played "Until I Found You.mp3"
+2026-07-15T02:58:44 player: played "Until I Found You.mp3"
+2026-07-15T08:54:59 player: played "Until I Found You.mp3"
+2026-07-15T11:22:02 player: played "Until I Found You.mp3"
+2026-07-15T11:31:19 player: played "Until I Found You.mp3"
+2026-07-15T18:37:47 player: played "Until I Found You.mp3"
+2026-07-15T18:41:42 player: played "Make You Mine.mp3"
+2026-07-15T18:44:08 player: played "Forever and Ever and Always.mp3"
+2026-07-15T18:48:04 player: played "[SPOTIFY-DOWNLOADER.COM] Just the Two of Us (feat. Bill Withers).mp3"
+2026-07-15T18:50:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:50:58 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-07-15T18:51:39 player: played "[SPOTIFY-DOWNLOADER.COM] One Right Now (with The Weeknd).mp3"
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-15T18:51:40 ffmpeg/aac: Could not update timestamps for skipped samples.
+2026-07-16T09:15:54 player: played "[NA] Barbaad (Movie_ Saiyaara) [(Jubin Nautiyal)].m4a"
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T09:16:36 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-16T13:23:32 player: played "[NA] Barbaad (Movie_ Saiyaara) [(Jubin Nautiyal)].m4a"
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:00:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T08:13:43 player: played "[NA] Barbaad (Movie_ Saiyaara) [(Jubin Nautiyal)].m4a"
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T11:21:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:14 player: played "[NA] Barbaad (Movie_ Saiyaara) [(Jubin Nautiyal)].m4a"
+2026-07-17T20:05:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-17T20:05:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-07-18T00:59:57 player: played "[SPOTIFY-DOWNLOADER.COM] Saint-Tropez.mp3"
+2026-07-18T13:46:24 player: played "[SPOTIFY-DOWNLOADER.COM] Saint-Tropez.mp3"
+2026-07-18T13:49:19 player: played "[SPOTIFY-DOWNLOADER.COM] Saint-Tropez.mp3"
+2026-07-19T00:06:55 player: played "[SPOTIFY-DOWNLOADER.COM] Saint-Tropez.mp3"
+2026-07-19T04:50:01 player: played "[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3"
+2026-07-19T08:58:33 player: played "[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3"
+2026-07-19T11:35:52 player: played "[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3"
+2026-07-20T02:05:30 player: played "[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3"
+2026-07-20T04:36:31 player: played "[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3"
+2026-07-20T09:29:37 player: played "[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3"
+2026-07-20T10:40:14 player: played "Someone To You.mp3"
+2026-07-20T16:51:00 player: played "Someone To You.mp3"
+2026-07-20T22:18:35 player: played "Someone To You.mp3"
+2026-07-20T22:26:39 player: played "Someone To You.mp3"
+2026-07-20T23:20:52 player: played "Someone To You.mp3"
+2026-07-21T00:23:42 player: played "Someone To You.mp3"
+2026-07-21T11:14:59 player: played "Someone To You.mp3"

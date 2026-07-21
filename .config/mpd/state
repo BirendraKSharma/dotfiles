@@ -1,8 +1,8 @@
 sw_volume: 100
 audio_device_state:1:PipeWire
 state: pause
-current: 69
-time: 40.352000000000004
+current: 58
+time: 5.953
 random: 1
 repeat: 0
 single: 0
@@ -12,208 +12,258 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Phir Aur Kya Chahiye - Arijit Singh mp3 song Download PagalWorld.com.mp3
-1:Ranjheya Ve - Zain Zohaib.m4a
-2:ox4tmEV6-QU.opus
-3:[SPOTIFY-DOWNLOADER.COM] Jashn-E-Bahaaraa.mp3
-4:[SPOTIFY-DOWNLOADER.COM] Chaand Baaliyan.mp3
-5:[SPOTIFY-DOWNLOADER.COM] Like Strangers Do.mp3
-6:[SPOTIFY-DOWNLOADER.COM] Tere Sath Mein.mp3
-7:[SPOTIFY-DOWNLOADER.COM] IDK You Yet.mp3
-8:[SPOTIFY-DOWNLOADER.COM] What If I Told You That I Love You.mp3
-9:[SPOTIFY-DOWNLOADER.COM] Salamat (From -Sarbjit-) (feat. Arijit Singh, Tulsi Kumar).mp3
-10:[SPOTIFY-DOWNLOADER.COM] Soch Na Sake.mp3
-11:[SPOTIFY-DOWNLOADER.COM] Jaan Hai Meri.mp3
-12:[SPOTIFY-DOWNLOADER.COM] Main Rahoon Ya Na Rahoon.mp3
-13:[SPOTIFY-DOWNLOADER.COM] Ghodey Pe Sawaar.mp3
-14:[SPOTIFY-DOWNLOADER.COM] Iktara.mp3
-15:[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3
-16:[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
-17:[SPOTIFY-DOWNLOADER.COM] Chal Wahan Jaate Hain (From -Chal Wahan Jaate Hain-).mp3
-18:[SPOTIFY-DOWNLOADER.COM] Humdard (From -Ek Villain-).mp3
-19:[SPOTIFY-DOWNLOADER.COM] Ishq Mubarak (From -Tum Bin 2-).mp3
-20:[SPOTIFY-DOWNLOADER.COM] Laal Ishq.mp3
-21:[SPOTIFY-DOWNLOADER.COM] Main Dhoondne Ko Zamaane Mein (From -Heartless-).mp3
-22:[SPOTIFY-DOWNLOADER.COM] Pachtaoge (From -Jaani Ve-).mp3
-23:[SPOTIFY-DOWNLOADER.COM] Raabta (From -Agent Vinod).mp3
-24:[SPOTIFY-DOWNLOADER.COM] Saware (From -Phantom-).mp3
-25:[SPOTIFY-DOWNLOADER.COM] Tera Chehra.mp3
-26:[SPOTIFY-DOWNLOADER.COM] Tera Yaar Hoon Main (From -Sonu Ke Titu Ki Sweety-).mp3
-27:[SPOTIFY-DOWNLOADER.COM] Tose Naina (From -Mickey Virus).mp3
-28:Tumhe Kitna Pyaar Karte_320(PagalWorld.com.pe).mp3
-29:[SPOTIFY-DOWNLOADER.COM] Itni Si Baat Hain (From -Azhar-).mp3
-30:[SPOTIFY-DOWNLOADER.COM] Lambiyaan Si Judaiyaan (From -Raabta-).mp3
-31:[SPOTIFY-DOWNLOADER.COM] Satranga (From -ANIMAL-).mp3
-32:[SPOTIFY-DOWNLOADER.COM] Thodi Jagah (From -Marjaavaan-).mp3
-33:[SPOTIFY-DOWNLOADER.COM] Dekh Lena (From -Tum Bin 2-).mp3
-34:[SPOTIFY-DOWNLOADER.COM] Dil Ke Paas (From -Wajah Tum Ho-).mp3
-35:[SPOTIFY-DOWNLOADER.COM] Mohabbat Barsa De (From -Creature 3D-).mp3
-36:[SPOTIFY-DOWNLOADER.COM] Bol Do Na Zara (From -Azhar-).mp3
-37:[SPOTIFY-DOWNLOADER.COM] Wajah Tum Ho.mp3
-38:[SPOTIFY-DOWNLOADER.COM] Dil Mein Ho Tum (From -Cheat India-).mp3
-39:[SPOTIFY-DOWNLOADER.COM] Pehla Pyaar.mp3
-40:VJ13O6qHIEI.opus
-41:[SPOTIFY-DOWNLOADER.COM] Crazier.mp3
-42:Ve Kamleya - Asees Version-(DJPunjab).mp3
-43:[SPOTIFY-DOWNLOADER.COM] Tumhare Aane Se.mp3
-44:[SPOTIFY-DOWNLOADER.COM] Tera Hone Laga Hoon.mp3
-45:[SPOTIFY-DOWNLOADER.COM] Paniyon Sa.mp3
-46:[SPOTIFY-DOWNLOADER.COM] Ik Lamha.mp3
-47:[SPOTIFY-DOWNLOADER.COM] Mine.mp3
-48:[SPOTIFY-DOWNLOADER.COM] Glue Song.mp3
-49:[SPOTIFY-DOWNLOADER.COM] Just the Way You Are.mp3
-50:[SPOTIFY-DOWNLOADER.COM] sorry, i like you too.mp3
-51:2Si4MPktn7s.opus
-52:[SPOTIFY-DOWNLOADER.COM] Apocalypse.mp3
-53:[SPOTIFY-DOWNLOADER.COM] Love You With All My Heart.mp3
-54:[SPOTIFY-DOWNLOADER.COM] one night.mp3
-55:KN7d0GNm4y0.opus
-56:[SPOTIFY-DOWNLOADER.COM] double take.mp3
-57:[NA] Dhun Song _ Saiyaara _ Ahaan Panday, Aneet Padda _ Mithoon _ Arijit Singh [(YRF)].m4a
-58:[SPOTIFY-DOWNLOADER.COM] Vaaste.mp3
-59:[SPOTIFY-DOWNLOADER.COM] La Vie En Rose.mp3
-60:[SPOTIFY-DOWNLOADER.COM] Polaroid Love.mp3
-61:[SPOTIFY-DOWNLOADER.COM] Minefields.mp3
-62:[SPOTIFY-DOWNLOADER.COM] Romantic Comedies.mp3
-63:[SPOTIFY-DOWNLOADER.COM] Shinunoga E-Wa.mp3
-64:[SPOTIFY-DOWNLOADER.COM] Mann Mera.mp3
-65:[SPOTIFY-DOWNLOADER.COM] Can You Remember the Rain - Sequence Remix.mp3
-66:[SPOTIFY-DOWNLOADER.COM] Just the Two of Us (feat. Bill Withers).mp3
-67:[SPOTIFY-DOWNLOADER.COM] Oceans (Where Feet May Fail).mp3
-68:[SPOTIFY-DOWNLOADER.COM] Always.mp3
-69:[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3
-70:[SPOTIFY-DOWNLOADER.COM] Saari Duniya Jalaa Denge.mp3
-71:[SPOTIFY-DOWNLOADER.COM] Here's Your Perfect.mp3
-72:[SPOTIFY-DOWNLOADER.COM] Zihaal e Miskin.mp3
-73:[SPOTIFY-DOWNLOADER.COM] comethru.mp3
-74:[SPOTIFY-DOWNLOADER.COM] New Light.mp3
-75:[SPOTIFY-DOWNLOADER.COM] Our First Song.mp3
-76:[SPOTIFY-DOWNLOADER.COM] Hey Stupid, I Love You.mp3
-77:[NA] Barbaad (Movie_ Saiyaara) [(Jubin Nautiyal)].m4a
-78:[SPOTIFY-DOWNLOADER.COM] moon and back.mp3
-79:[SPOTIFY-DOWNLOADER.COM] this is what falling in love feels like.mp3
-80:[SPOTIFY-DOWNLOADER.COM] Allah Ke Bande.mp3
-81:Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3
-82:WTJSt4wP2ME.opus
-83:[SPOTIFY-DOWNLOADER.COM] beside you.mp3
-84:[SPOTIFY-DOWNLOADER.COM] Saturday Nights.mp3
-85:tqwQQK54dgA.opus
-86:[SPOTIFY-DOWNLOADER.COM] Maan Meri Jaan.mp3
-87:[SPOTIFY-DOWNLOADER.COM] I Like Me Better.mp3
-88:owqEQcVAFaE.opus
-89:g0YbQuuz01k.opus
-90:8ui9umU0C2g.opus
-91:[SPOTIFY-DOWNLOADER.COM] Butterflies.mp3
-92:[SPOTIFY-DOWNLOADER.COM] IT'S YOU (feat. keshi).mp3
-93:[SPOTIFY-DOWNLOADER.COM] Ijazat (From -One Night Stand-).mp3
-94:[SPOTIFY-DOWNLOADER.COM] Kinna Sona (From -Marjaavaan-).mp3
-95:[SPOTIFY-DOWNLOADER.COM] Love, Maybe.mp3
-96:[SPOTIFY-DOWNLOADER.COM] Sure Thing.mp3
-97:[SPOTIFY-DOWNLOADER.COM] Thousand Miles (feat. Brandi Carlile).mp3
-98:[SPOTIFY-DOWNLOADER.COM] Aashiqui Aa Gayi.mp3
-99:[SPOTIFY-DOWNLOADER.COM] Darkhaast (feat. Arijit Singh, Sunidhi Chauhan).mp3
-100:[SPOTIFY-DOWNLOADER.COM] Udd Jaa Parindey.mp3
-101:[SPOTIFY-DOWNLOADER.COM] Fall in Love with You..mp3
-102:[SPOTIFY-DOWNLOADER.COM] Know Me Too Well (with Danna Paola).mp3
-103:[SPOTIFY-DOWNLOADER.COM] Next To You.mp3
-104:[SPOTIFY-DOWNLOADER.COM] Those Eyes.mp3
-105:[SPOTIFY-DOWNLOADER.COM] Thinkin Bout You.mp3
-106:[SPOTIFY-DOWNLOADER.COM] Counting Stars.mp3
-107:[SPOTIFY-DOWNLOADER.COM] I Ain't Worried.mp3
-108:9T-Zbxg9X_4.opus
-109:[SPOTIFY-DOWNLOADER.COM] If I Could Ride a Bike.mp3
-110:[SPOTIFY-DOWNLOADER.COM] Tum Hi Aana (Sad Version) [From -Marjaavaan-].mp3
-111:[SPOTIFY-DOWNLOADER.COM] Honesty.mp3
-112:[SPOTIFY-DOWNLOADER.COM] A Thousand Bad Times.mp3
-113:[SPOTIFY-DOWNLOADER.COM] Allergic.mp3
-114:[SPOTIFY-DOWNLOADER.COM] Better Now.mp3
-115:[SPOTIFY-DOWNLOADER.COM] Big Lie.mp3
-116:[SPOTIFY-DOWNLOADER.COM] Blame It On Me.mp3
-117:[SPOTIFY-DOWNLOADER.COM] Broken Whiskey Glass.mp3
-118:[SPOTIFY-DOWNLOADER.COM] Candy Paint.mp3
-119:[SPOTIFY-DOWNLOADER.COM] Chemical.mp3
-120:[SPOTIFY-DOWNLOADER.COM] Circles.mp3
-121:[SPOTIFY-DOWNLOADER.COM] Cold.mp3
-122:[SPOTIFY-DOWNLOADER.COM] Go Flex.mp3
-123:[SPOTIFY-DOWNLOADER.COM] Hit This Hard.mp3
-124:[SPOTIFY-DOWNLOADER.COM] Hollywood's Bleeding.mp3
-125:[SPOTIFY-DOWNLOADER.COM] I Know.mp3
-126:[SPOTIFY-DOWNLOADER.COM] I'm Gonna Be.mp3
-127:[SPOTIFY-DOWNLOADER.COM] Motley Crew.mp3
-128:[SPOTIFY-DOWNLOADER.COM] Mourning.mp3
-129:[SPOTIFY-DOWNLOADER.COM] Myself.mp3
-130:[SPOTIFY-DOWNLOADER.COM] No Option.mp3
-131:[SPOTIFY-DOWNLOADER.COM] Over Now.mp3
-132:[SPOTIFY-DOWNLOADER.COM] Rich & Sad.mp3
-133:[SPOTIFY-DOWNLOADER.COM] Saint-Tropez.mp3
-134:[SPOTIFY-DOWNLOADER.COM] Stay.mp3
-135:[SPOTIFY-DOWNLOADER.COM] Too Young.mp3
-136:[SPOTIFY-DOWNLOADER.COM] White Iverson.mp3
-137:[SPOTIFY-DOWNLOADER.COM] Wow..mp3
-138:[SPOTIFY-DOWNLOADER.COM] rockstar (feat. 21 Savage).mp3
-139:[SPOTIFY-DOWNLOADER.COM] Enemies (feat. DaBaby).mp3
-140:[SPOTIFY-DOWNLOADER.COM] Die For Me (feat. Future & Halsey).mp3
-141:[SPOTIFY-DOWNLOADER.COM] Deja Vu.mp3
-142:[SPOTIFY-DOWNLOADER.COM] Ball For Me (feat. Nicki Minaj).mp3
-143:[SPOTIFY-DOWNLOADER.COM] Take What You Want (feat. Ozzy Osbourne & Travis Scott).mp3
-144:[SPOTIFY-DOWNLOADER.COM] Spoil My Night (feat. Swae Lee).mp3
-145:[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man_ Into the Spider-Verse.mp3
-146:[SPOTIFY-DOWNLOADER.COM] Staring At The Sun (feat. SZA).mp3
-147:[SPOTIFY-DOWNLOADER.COM] One Right Now (with The Weeknd).mp3
-148:[SPOTIFY-DOWNLOADER.COM] Psycho (feat. Ty Dolla $ign).mp3
-149:[SPOTIFY-DOWNLOADER.COM] Goodbyes (feat. Young Thug).mp3
-150:[SPOTIFY-DOWNLOADER.COM] Tere Hawale (Arijit - Shreya Duet).mp3
-151:[SPOTIFY-DOWNLOADER.COM] Ae Dil Hai Mushkil Title Track (From _Ae Dil Hai Mushkil_).mp3
-152:[SPOTIFY-DOWNLOADER.COM] Khairiyat.mp3
-153:[SPOTIFY-DOWNLOADER.COM] Phir Le Aya Dil (From _Barfi!_) - Reprise.mp3
-154:[SPOTIFY-DOWNLOADER.COM] Shayad.mp3
-155:[SPOTIFY-DOWNLOADER.COM] Woh Din (Arijit Singh Version) [From -Chhichhore-].mp3
-156:[SPOTIFY-DOWNLOADER.COM] Kesariya.mp3
-157:[SPOTIFY-DOWNLOADER.COM] Kesariya (From -Brahmastra-).mp3
-158:[SPOTIFY-DOWNLOADER.COM] Deva Deva.mp3
-159:[SPOTIFY-DOWNLOADER.COM] O Maahi (From -Dunki-).mp3
-160:[SPOTIFY-DOWNLOADER.COM] Tum Kya Mile (From _Rocky Aur Rani Kii Prem Kahaani_).mp3
-161:[SPOTIFY-DOWNLOADER.COM] Tujhe Sochta Hoon.mp3
-162:[SPOTIFY-DOWNLOADER.COM] Rasiya (From _Brahmastra_).mp3
-163:[SPOTIFY-DOWNLOADER.COM] Ek Tukda Dhoop (From _Thappad_).mp3
-164:[SPOTIFY-DOWNLOADER.COM] Yours.mp3
-165:[SPOTIFY-DOWNLOADER.COM] AMAZING.mp3
-166:[SPOTIFY-DOWNLOADER.COM] ONE IN A MILLION.mp3
-167:[SPOTIFY-DOWNLOADER.COM] THE SHADE.mp3
-168:[SPOTIFY-DOWNLOADER.COM] My Luv (feat. Bibi Bourelly).mp3
-169:[SPOTIFY-DOWNLOADER.COM] Tu Hi Yaar Mera (From -Pati Patni Aur Woh-).mp3
-170:[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
-171:Ram Siya Ram - Adipurush mp3 song Download PagalWorld.com.mp3
-172:[SPOTIFY-DOWNLOADER.COM] Mere Sohneya (From -Kabir Singh-).mp3
-173:[SPOTIFY-DOWNLOADER.COM] High On You.mp3
-174:[SPOTIFY-DOWNLOADER.COM] My Oasis (feat. Burna Boy).mp3
-175:[SPOTIFY-DOWNLOADER.COM] It's You.mp3
-176:[SPOTIFY-DOWNLOADER.COM] Noor E Khuda.mp3
-177:[SPOTIFY-DOWNLOADER.COM] Achha Lagta Hai.mp3
-178:[SPOTIFY-DOWNLOADER.COM] Mareez - E - Ishq - Reload Version.mp3
-179:[SPOTIFY-DOWNLOADER.COM] I Still Love You.mp3
-180:[SPOTIFY-DOWNLOADER.COM] Fall In Love Alone.mp3
-181:[SPOTIFY-DOWNLOADER.COM] I Love You 3000.mp3
-182:[SPOTIFY-DOWNLOADER.COM] Teenage Dream.mp3
-183:[SPOTIFY-DOWNLOADER.COM] ily (i love you baby) (feat. Emilee).mp3
-184:[SPOTIFY-DOWNLOADER.COM] Snooze.mp3
-185:CtgD91Ev4NU.opus
-186:[SPOTIFY-DOWNLOADER.COM] Kho Gaye.mp3
-187:[SPOTIFY-DOWNLOADER.COM] Love Story.mp3
-188:[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
-189:[SPOTIFY-DOWNLOADER.COM] Somebody To You.mp3
-190:fGloYC4kV8A.opus
-191:[SPOTIFY-DOWNLOADER.COM] Die For You.mp3
-192:[SPOTIFY-DOWNLOADER.COM] everything sucks.mp3
-193:[SPOTIFY-DOWNLOADER.COM] We Might Even Be Falling In Love (Duet) - Spotify Singles.mp3
-194:[SPOTIFY-DOWNLOADER.COM] Ishq Bulaava.mp3
-195:[SPOTIFY-DOWNLOADER.COM] Old Love.mp3
-196:[SPOTIFY-DOWNLOADER.COM] Looking For Love.mp3
-197:[SPOTIFY-DOWNLOADER.COM] Give Me Your Forever.mp3
-198:KzBa4ZKTVjE.opus
-199:FGTv9-oQhIg.opus
-200:1774537894267.mp3
-201:rhianne - Somewhere Only We Know (Lyrics) - Prestige Vibes.m4a
-202:Roshni Hi Roshni Hai.mp3
-203:youtube/WTJSt4wP2ME.opus
+0:Tell Me It's Not a Dream - 10CM.m4a
+1:Samjho Na - Aditya Rikhari.m4a
+2:nadaaniyan - Akshath.m4a
+3:Phir Aur Kya Chahiye - Arijit Singh mp3 song Download PagalWorld.com.mp3
+4:Love You With All My Heart - Crush.m4a
+5:Naina (From  Crew ) - Diljit Dosanjh, Badshah, Raj Ranjodh.m4a
+6:What It Is (Block Boy) (with Kodak Black) - Doechii, Kodak Black.m4a
+7:The Journey - Kelley McRae.m4a
+8:Oonchi Oonchi Deewarein (From  Yaariyan 2 ) - Manan Bhardwaj, Arijit Singh.m4a
+9:Suzume - RADWIMPS, Toaka.m4a
+10:Tere Sang Ishq Hua (From  Yodha ) - Tanishk Bagchi, Arijit Singh, Neeti Mohan, Kunaal Vermaa.m4a
+11:Ranjheya Ve - Zain Zohaib.m4a
+12:ox4tmEV6-QU.opus
+13:[SPOTIFY-DOWNLOADER.COM] Jashn-E-Bahaaraa.mp3
+14:The Ballet Girl.mp3
+15:[SPOTIFY-DOWNLOADER.COM] Chaand Baaliyan.mp3
+16:[SPOTIFY-DOWNLOADER.COM] Like Strangers Do.mp3
+17:[SPOTIFY-DOWNLOADER.COM] Tere Sath Mein.mp3
+18:[SPOTIFY-DOWNLOADER.COM] IDK You Yet.mp3
+19:[SPOTIFY-DOWNLOADER.COM] What If I Told You That I Love You.mp3
+20:[SPOTIFY-DOWNLOADER.COM] Salamat (From -Sarbjit-) (feat. Arijit Singh, Tulsi Kumar).mp3
+21:[SPOTIFY-DOWNLOADER.COM] Soch Na Sake.mp3
+22:[SPOTIFY-DOWNLOADER.COM] Jaan Hai Meri.mp3
+23:[SPOTIFY-DOWNLOADER.COM] Main Rahoon Ya Na Rahoon.mp3
+24:[SPOTIFY-DOWNLOADER.COM] Ghodey Pe Sawaar.mp3
+25:[SPOTIFY-DOWNLOADER.COM] Iktara.mp3
+26:[SPOTIFY-DOWNLOADER.COM] Aise Kyun.mp3
+27:[SPOTIFY-DOWNLOADER.COM] I Wanna Be Yours.mp3
+28:[SPOTIFY-DOWNLOADER.COM] Chal Wahan Jaate Hain (From -Chal Wahan Jaate Hain-).mp3
+29:[SPOTIFY-DOWNLOADER.COM] Humdard (From -Ek Villain-).mp3
+30:[SPOTIFY-DOWNLOADER.COM] Ishq Mubarak (From -Tum Bin 2-).mp3
+31:[SPOTIFY-DOWNLOADER.COM] Laal Ishq.mp3
+32:[SPOTIFY-DOWNLOADER.COM] Main Dhoondne Ko Zamaane Mein (From -Heartless-).mp3
+33:[SPOTIFY-DOWNLOADER.COM] Pachtaoge (From -Jaani Ve-).mp3
+34:[SPOTIFY-DOWNLOADER.COM] Raabta (From -Agent Vinod).mp3
+35:[SPOTIFY-DOWNLOADER.COM] Saware (From -Phantom-).mp3
+36:[SPOTIFY-DOWNLOADER.COM] Tera Chehra.mp3
+37:[SPOTIFY-DOWNLOADER.COM] Tera Yaar Hoon Main (From -Sonu Ke Titu Ki Sweety-).mp3
+38:[SPOTIFY-DOWNLOADER.COM] Tose Naina (From -Mickey Virus).mp3
+39:Tumhe Kitna Pyaar Karte_320(PagalWorld.com.pe).mp3
+40:[SPOTIFY-DOWNLOADER.COM] Itni Si Baat Hain (From -Azhar-).mp3
+41:[SPOTIFY-DOWNLOADER.COM] Lambiyaan Si Judaiyaan (From -Raabta-).mp3
+42:[SPOTIFY-DOWNLOADER.COM] Satranga (From -ANIMAL-).mp3
+43:[SPOTIFY-DOWNLOADER.COM] Thodi Jagah (From -Marjaavaan-).mp3
+44:[SPOTIFY-DOWNLOADER.COM] Dekh Lena (From -Tum Bin 2-).mp3
+45:[SPOTIFY-DOWNLOADER.COM] Dil Ke Paas (From -Wajah Tum Ho-).mp3
+46:[SPOTIFY-DOWNLOADER.COM] Mohabbat Barsa De (From -Creature 3D-).mp3
+47:[SPOTIFY-DOWNLOADER.COM] Bol Do Na Zara (From -Azhar-).mp3
+48:[SPOTIFY-DOWNLOADER.COM] Wajah Tum Ho.mp3
+49:[SPOTIFY-DOWNLOADER.COM] Dil Mein Ho Tum (From -Cheat India-).mp3
+50:[SPOTIFY-DOWNLOADER.COM] Pehla Pyaar.mp3
+51:VJ13O6qHIEI.opus
+52:[SPOTIFY-DOWNLOADER.COM] Crazier.mp3
+53:Ve Kamleya - Asees Version-(DJPunjab).mp3
+54:[SPOTIFY-DOWNLOADER.COM] Tumhare Aane Se.mp3
+55:[SPOTIFY-DOWNLOADER.COM] Tera Hone Laga Hoon.mp3
+56:[SPOTIFY-DOWNLOADER.COM] Paniyon Sa.mp3
+57:[SPOTIFY-DOWNLOADER.COM] Ik Lamha.mp3
+58:Someone To You.mp3
+59:I.F.L.Y..mp3
+60:[SPOTIFY-DOWNLOADER.COM] Mine.mp3
+61:[SPOTIFY-DOWNLOADER.COM] Glue Song.mp3
+62:[SPOTIFY-DOWNLOADER.COM] Just the Way You Are.mp3
+63:[SPOTIFY-DOWNLOADER.COM] sorry, i like you too.mp3
+64:Electric Love.mp3
+65:Bad Thing.mp3
+66:2Si4MPktn7s.opus
+67:Left and Right (Feat. Jung Kook of BTS).mp3
+68:Can't Help Falling in Love.mp3
+69:[SPOTIFY-DOWNLOADER.COM] Apocalypse.mp3
+70:I GUESS I'M IN LOVE.mp3
+71:[SPOTIFY-DOWNLOADER.COM] Love You With All My Heart.mp3
+72:[SPOTIFY-DOWNLOADER.COM] one night.mp3
+73:Rose - English Version.mp3
+74:Here With Me.mp3
+75:KN7d0GNm4y0.opus
+76:[SPOTIFY-DOWNLOADER.COM] double take.mp3
+77:[NA] Dhun Song _ Saiyaara _ Ahaan Panday, Aneet Padda _ Mithoon _ Arijit Singh [(YRF)].m4a
+78:[SPOTIFY-DOWNLOADER.COM] Vaaste.mp3
+79:Eyes Closed.mp3
+80:[SPOTIFY-DOWNLOADER.COM] La Vie En Rose.mp3
+81:[SPOTIFY-DOWNLOADER.COM] Polaroid Love.mp3
+82:Feels Like You.mp3
+83:[SPOTIFY-DOWNLOADER.COM] Minefields.mp3
+84:[SPOTIFY-DOWNLOADER.COM] Romantic Comedies.mp3
+85:[SPOTIFY-DOWNLOADER.COM] Shinunoga E-Wa.mp3
+86:[SPOTIFY-DOWNLOADER.COM] Mann Mera.mp3
+87:Blue Jeans.mp3
+88:[SPOTIFY-DOWNLOADER.COM] Can You Remember the Rain - Sequence Remix.mp3
+89:[SPOTIFY-DOWNLOADER.COM] Just the Two of Us (feat. Bill Withers).mp3
+90:Adore You.mp3
+91:[SPOTIFY-DOWNLOADER.COM] Oceans (Where Feet May Fail).mp3
+92:[SPOTIFY-DOWNLOADER.COM] Always.mp3
+93:[SPOTIFY-DOWNLOADER.COM] Love wins all.mp3
+94:[SPOTIFY-DOWNLOADER.COM] Saari Duniya Jalaa Denge.mp3
+95:[SPOTIFY-DOWNLOADER.COM] Here's Your Perfect.mp3
+96:I'm Yours.mp3
+97:[SPOTIFY-DOWNLOADER.COM] Zihaal e Miskin.mp3
+98:Happiest Year.mp3
+99:[SPOTIFY-DOWNLOADER.COM] comethru.mp3
+100:[SPOTIFY-DOWNLOADER.COM] New Light.mp3
+101:[SPOTIFY-DOWNLOADER.COM] Our First Song.mp3
+102:[SPOTIFY-DOWNLOADER.COM] Hey Stupid, I Love You.mp3
+103:[NA] Barbaad (Movie_ Saiyaara) [(Jubin Nautiyal)].m4a
+104:[SPOTIFY-DOWNLOADER.COM] moon and back.mp3
+105:[SPOTIFY-DOWNLOADER.COM] this is what falling in love feels like.mp3
+106:[SPOTIFY-DOWNLOADER.COM] Allah Ke Bande.mp3
+107:Piya Ghar Aavenge - Kailash Kher [128 Kbps]-(SongsPk.com.se).mp3
+108:Melting.mp3
+109:waving flag.opus
+110:WTJSt4wP2ME.opus
+111:[SPOTIFY-DOWNLOADER.COM] beside you.mp3
+112:[SPOTIFY-DOWNLOADER.COM] Saturday Nights.mp3
+113:tqwQQK54dgA.opus
+114:[SPOTIFY-DOWNLOADER.COM] Maan Meri Jaan.mp3
+115:Date Night (feat. Morgan Evans).mp3
+116:Weak.mp3
+117:[SPOTIFY-DOWNLOADER.COM] I Like Me Better.mp3
+118:owqEQcVAFaE.opus
+119:g0YbQuuz01k.opus
+120:8ui9umU0C2g.opus
+121:Sky is the Limit.mp3
+122:[SPOTIFY-DOWNLOADER.COM] Butterflies.mp3
+123:[SPOTIFY-DOWNLOADER.COM] IT'S YOU (feat. keshi).mp3
+124:On My Mind.mp3
+125:[SPOTIFY-DOWNLOADER.COM] Ijazat (From -One Night Stand-).mp3
+126:[SPOTIFY-DOWNLOADER.COM] Kinna Sona (From -Marjaavaan-).mp3
+127:[SPOTIFY-DOWNLOADER.COM] Love, Maybe.mp3
+128:The Way I Love You.mp3
+129:[SPOTIFY-DOWNLOADER.COM] Sure Thing.mp3
+130:[SPOTIFY-DOWNLOADER.COM] Thousand Miles (feat. Brandi Carlile).mp3
+131:[SPOTIFY-DOWNLOADER.COM] Aashiqui Aa Gayi.mp3
+132:[SPOTIFY-DOWNLOADER.COM] Darkhaast (feat. Arijit Singh, Sunidhi Chauhan).mp3
+133:[SPOTIFY-DOWNLOADER.COM] Udd Jaa Parindey.mp3
+134:[SPOTIFY-DOWNLOADER.COM] Fall in Love with You..mp3
+135:[SPOTIFY-DOWNLOADER.COM] Know Me Too Well (with Danna Paola).mp3
+136:[SPOTIFY-DOWNLOADER.COM] Next To You.mp3
+137:[SPOTIFY-DOWNLOADER.COM] Those Eyes.mp3
+138:[SPOTIFY-DOWNLOADER.COM] Thinkin Bout You.mp3
+139:[SPOTIFY-DOWNLOADER.COM] Counting Stars.mp3
+140:[SPOTIFY-DOWNLOADER.COM] I Ain't Worried.mp3
+141:Bardali - PagalHits.mp3
+142:9T-Zbxg9X_4.opus
+143:[SPOTIFY-DOWNLOADER.COM] If I Could Ride a Bike.mp3
+144:[SPOTIFY-DOWNLOADER.COM] Tum Hi Aana (Sad Version) [From -Marjaavaan-].mp3
+145:At My Worst.mp3
+146:[SPOTIFY-DOWNLOADER.COM] Honesty.mp3
+147:[SPOTIFY-DOWNLOADER.COM] A Thousand Bad Times.mp3
+148:[SPOTIFY-DOWNLOADER.COM] Allergic.mp3
+149:[SPOTIFY-DOWNLOADER.COM] Better Now.mp3
+150:[SPOTIFY-DOWNLOADER.COM] Big Lie.mp3
+151:[SPOTIFY-DOWNLOADER.COM] Blame It On Me.mp3
+152:[SPOTIFY-DOWNLOADER.COM] Broken Whiskey Glass.mp3
+153:[SPOTIFY-DOWNLOADER.COM] Candy Paint.mp3
+154:[SPOTIFY-DOWNLOADER.COM] Chemical.mp3
+155:[SPOTIFY-DOWNLOADER.COM] Circles.mp3
+156:[SPOTIFY-DOWNLOADER.COM] Cold.mp3
+157:[SPOTIFY-DOWNLOADER.COM] Go Flex.mp3
+158:[SPOTIFY-DOWNLOADER.COM] Hit This Hard.mp3
+159:[SPOTIFY-DOWNLOADER.COM] Hollywood's Bleeding.mp3
+160:[SPOTIFY-DOWNLOADER.COM] I Know.mp3
+161:[SPOTIFY-DOWNLOADER.COM] I'm Gonna Be.mp3
+162:[SPOTIFY-DOWNLOADER.COM] Motley Crew.mp3
+163:[SPOTIFY-DOWNLOADER.COM] Mourning.mp3
+164:[SPOTIFY-DOWNLOADER.COM] Myself.mp3
+165:[SPOTIFY-DOWNLOADER.COM] No Option.mp3
+166:[SPOTIFY-DOWNLOADER.COM] Over Now.mp3
+167:[SPOTIFY-DOWNLOADER.COM] Rich & Sad.mp3
+168:[SPOTIFY-DOWNLOADER.COM] Saint-Tropez.mp3
+169:[SPOTIFY-DOWNLOADER.COM] Stay.mp3
+170:[SPOTIFY-DOWNLOADER.COM] Too Young.mp3
+171:[SPOTIFY-DOWNLOADER.COM] White Iverson.mp3
+172:[SPOTIFY-DOWNLOADER.COM] Wow..mp3
+173:[SPOTIFY-DOWNLOADER.COM] rockstar (feat. 21 Savage).mp3
+174:[SPOTIFY-DOWNLOADER.COM] Enemies (feat. DaBaby).mp3
+175:[SPOTIFY-DOWNLOADER.COM] Die For Me (feat. Future & Halsey).mp3
+176:[SPOTIFY-DOWNLOADER.COM] Deja Vu.mp3
+177:[SPOTIFY-DOWNLOADER.COM] Ball For Me (feat. Nicki Minaj).mp3
+178:[SPOTIFY-DOWNLOADER.COM] Take What You Want (feat. Ozzy Osbourne & Travis Scott).mp3
+179:[SPOTIFY-DOWNLOADER.COM] Spoil My Night (feat. Swae Lee).mp3
+180:[SPOTIFY-DOWNLOADER.COM] Sunflower - Spider-Man_ Into the Spider-Verse.mp3
+181:[SPOTIFY-DOWNLOADER.COM] Staring At The Sun (feat. SZA).mp3
+182:[SPOTIFY-DOWNLOADER.COM] One Right Now (with The Weeknd).mp3
+183:[SPOTIFY-DOWNLOADER.COM] Psycho (feat. Ty Dolla $ign).mp3
+184:[SPOTIFY-DOWNLOADER.COM] Goodbyes (feat. Young Thug).mp3
+185:Eyes Off You.mp3
+186:[SPOTIFY-DOWNLOADER.COM] Tere Hawale (Arijit - Shreya Duet).mp3
+187:[SPOTIFY-DOWNLOADER.COM] Ae Dil Hai Mushkil Title Track (From _Ae Dil Hai Mushkil_).mp3
+188:[SPOTIFY-DOWNLOADER.COM] Khairiyat.mp3
+189:[SPOTIFY-DOWNLOADER.COM] Phir Le Aya Dil (From _Barfi!_) - Reprise.mp3
+190:[SPOTIFY-DOWNLOADER.COM] Shayad.mp3
+191:[SPOTIFY-DOWNLOADER.COM] Woh Din (Arijit Singh Version) [From -Chhichhore-].mp3
+192:[SPOTIFY-DOWNLOADER.COM] Kesariya.mp3
+193:[SPOTIFY-DOWNLOADER.COM] Kesariya (From -Brahmastra-).mp3
+194:[SPOTIFY-DOWNLOADER.COM] Deva Deva.mp3
+195:[SPOTIFY-DOWNLOADER.COM] O Maahi (From -Dunki-).mp3
+196:[SPOTIFY-DOWNLOADER.COM] Tum Kya Mile (From _Rocky Aur Rani Kii Prem Kahaani_).mp3
+197:[SPOTIFY-DOWNLOADER.COM] Tujhe Sochta Hoon.mp3
+198:[SPOTIFY-DOWNLOADER.COM] Rasiya (From _Brahmastra_).mp3
+199:Make You Mine.mp3
+200:[SPOTIFY-DOWNLOADER.COM] Ek Tukda Dhoop (From _Thappad_).mp3
+201:[SPOTIFY-DOWNLOADER.COM] Yours.mp3
+202:Love Me.mp3
+203:[SPOTIFY-DOWNLOADER.COM] AMAZING.mp3
+204:[SPOTIFY-DOWNLOADER.COM] ONE IN A MILLION.mp3
+205:[SPOTIFY-DOWNLOADER.COM] THE SHADE.mp3
+206:[SPOTIFY-DOWNLOADER.COM] My Luv (feat. Bibi Bourelly).mp3
+207:[SPOTIFY-DOWNLOADER.COM] Tu Hi Yaar Mera (From -Pati Patni Aur Woh-).mp3
+208:[SPOTIFY-DOWNLOADER.COM] Dandelions.mp3
+209:Forever and Ever and Always.mp3
+210:Ram Siya Ram - Adipurush mp3 song Download PagalWorld.com.mp3
+211:[SPOTIFY-DOWNLOADER.COM] Mere Sohneya (From -Kabir Singh-).mp3
+212:[SPOTIFY-DOWNLOADER.COM] High On You.mp3
+213:[SPOTIFY-DOWNLOADER.COM] My Oasis (feat. Burna Boy).mp3
+214:[SPOTIFY-DOWNLOADER.COM] It's You.mp3
+215:[SPOTIFY-DOWNLOADER.COM] Noor E Khuda.mp3
+216:[SPOTIFY-DOWNLOADER.COM] Achha Lagta Hai.mp3
+217:[SPOTIFY-DOWNLOADER.COM] Mareez - E - Ishq - Reload Version.mp3
+218:[SPOTIFY-DOWNLOADER.COM] I Still Love You.mp3
+219:[SPOTIFY-DOWNLOADER.COM] Fall In Love Alone.mp3
+220:[SPOTIFY-DOWNLOADER.COM] I Love You 3000.mp3
+221:[SPOTIFY-DOWNLOADER.COM] Teenage Dream.mp3
+222:Be More.mp3
+223:Evangeline.mp3
+224:See The Light.mp3
+225:Until I Found You.mp3
+226:Sweet to Me.mp3
+227:[SPOTIFY-DOWNLOADER.COM] ily (i love you baby) (feat. Emilee).mp3
+228:Little Bit More.mp3
+229:[SPOTIFY-DOWNLOADER.COM] Snooze.mp3
+230:CtgD91Ev4NU.opus
+231:[SPOTIFY-DOWNLOADER.COM] Kho Gaye.mp3
+232:stupid.mp3
+233:[SPOTIFY-DOWNLOADER.COM] Love Story.mp3
+234:[SPOTIFY-DOWNLOADER.COM] Sweater Weather.mp3
+235:[SPOTIFY-DOWNLOADER.COM] Somebody To You.mp3
+236:fGloYC4kV8A.opus
+237:[SPOTIFY-DOWNLOADER.COM] Die For You.mp3
+238:Leave a Light On.mp3
+239:Favorite Song.mp3
+240:I See You.mp3
+241:Love You Still (abcdefu romantic version).mp3
+242:[SPOTIFY-DOWNLOADER.COM] everything sucks.mp3
+243:[SPOTIFY-DOWNLOADER.COM] We Might Even Be Falling In Love (Duet) - Spotify Singles.mp3
+244:[SPOTIFY-DOWNLOADER.COM] Ishq Bulaava.mp3
+245:[SPOTIFY-DOWNLOADER.COM] Old Love.mp3
+246:[SPOTIFY-DOWNLOADER.COM] Looking For Love.mp3
+247:[SPOTIFY-DOWNLOADER.COM] Give Me Your Forever.mp3
+248:KzBa4ZKTVjE.opus
+249:FGTv9-oQhIg.opus
+250:[MV] Heize(헤이즈) - Hold Me Back(멈춰줘) (320).mp3
+251:1774537894267.mp3
+252:rhianne - Somewhere Only We Know (Lyrics) - Prestige Vibes.m4a
+253:Roshni Hi Roshni Hai.mp3
 playlist_end
