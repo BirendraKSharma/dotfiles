@@ -77,7 +77,7 @@ hl.gesture({
 -- hl.gesture({ fingers = 3, direction = "left", action = function() hl.dispatch(hl.dsp.focus({ direction = "l" })) end })
 -- hl.gesture({ fingers = 3, direction = "right", action = function() hl.dispatch(hl.dsp.focus({ direction = "r" })) end })
 
- -- 4-finger gestures for volume and display brightness.
+ -- 4-finger gestures for volume and display brightness.(Birendra)
   hl.gesture({
     fingers = 4,
     direction = "up",

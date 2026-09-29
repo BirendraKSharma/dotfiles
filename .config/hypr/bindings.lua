@@ -14,6 +14,9 @@
 
 -- Add a new binding.
 -- o.bind("SUPER + SHIFT + R", "SSH", "alacritty -e ssh your-server")
+hl.unbind("SUPER + SHIFT + E")
+o.bind("SUPER + SHIFT + E", "OmaMail", "omarchy shell shell toggle omamail '{}'") 
+o.bind("ALT + SPACE", "Spotlight", "omarchy-shell shell toggle io.github.maajix.spotlight '{}'")
 
 -- Change an existing binding by unbinding it first, then binding the key again.
 -- This example changes SUPER+SPACE from the launcher to the Omarchy root menu.

@@ -48,3 +48,35 @@
 --     column_width = 0.97,
 --   },
 -- })
+
+	hl.config({
+	  decoration = {
+	    blur = {
+	      enabled = true,
+	      size = 8,
+	      passes = 3,
+	      brightness = 0.8,
+	      contrast = 0.9,
+	      new_optimizations = true
+	    },
+	  },
+	})
+
+	hl.layer_rule({
+	  match = { namespace = "omarchy-spotlight" },
+	  blur = true,
+	  ignore_alpha = 0.4,
+	})
+
+-- BEGIN khwan.glass (managed by the Glass bar panel — edits are overwritten; use the panel)
+hl.config({
+  decoration = {
+    blur = { enabled = true, size = 16, passes = 4,
+             brightness = 1.05, contrast = 0.92, noise = 0.045 },
+    rounding = 6,
+    dim_inactive = false,
+    dim_strength = 0.15,
+  },
+})
+o.window(".*", { opacity = "0.88 0.88" })
+-- END khwan.glass

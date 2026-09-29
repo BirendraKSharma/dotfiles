@@ -13,7 +13,6 @@ path_prepend "$HOME/.local/bin"
 path_prepend "$HOME/.cargo/bin"
 path_prepend "$HOME/.opencode/bin"
 path_prepend "$HOME/.clispot/bin"
-path_prepend "usr/local/bin"
 export PATH
 
 # ── 2. CORE ENVIRONMENT ─────────────────────────────────────────
@@ -52,9 +51,9 @@ alias vi='micro'
 alias vim='micro'
 alias nano='micro'
 alias zed='zeditor'
-alias appimage='am --launcher'
+command -v am &>/dev/null && alias appimage='am --launcher'
 alias shutdown='poweroff'
-alias vpn='lazyvpn'
+command -v lazyvpn &>/dev/null && alias vpn='lazyvpn'
 # ── 6. ALIASES: MODERN CLI REPLACEMENTS ─────────────────────────
 # eza — replaces ls with icons, git-awareness, and directory grouping.
 if command -v eza &>/dev/null; then
@@ -96,34 +95,33 @@ alias pkginfo='yay -Qi'
 alias autoclean='yay -Sc --noconfirm'
 alias orphans='yay -Qdtq | yay -Rns -'
 alias pkglist='pacman -Qe'
-alias mirrors='sudo reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist'
+command -v reflector &>/dev/null && alias mirrors='sudo reflector --latest 10 --sort rate --save /etc/pacman.d/mirrorlist'
 
 # ── 11. ALIASES: SYSTEM MONITORING ──────────────────────────────
 alias cpu='btop'
 alias mem='free -h'
 alias disk='df -h'
 alias ports='ss -tulnp'
+alias monkeytype='smassh'
 
-# ── 12. ALIASES: PYTHON ─────────────────────────────────────────
-alias venv='uv venv --seed'
+# ── 12. OPTIONAL DEVELOPMENT & MEDIA TOOLS ──────────────────────
+# These become available automatically when their programs are installed.
+command -v uv &>/dev/null && alias venv='uv venv --seed'
 alias activate='source .venv/bin/activate'
+command -v posting &>/dev/null && alias postman='posting'
+command -v smassh &>/dev/null && alias montype='smassh'
+command -v ani-cli &>/dev/null && alias anime='ani-cli'
+if command -v rmpc &>/dev/null; then
+  alias song='rmpc'
+  addyt() { rmpc addyt "$*"; }
+  syt() {
+    [[ -z "$*" ]] && echo "Provide a search query" && return 1
+    rmpc searchyt --interactive "$*"
+  }
+fi
+command -v spf &>/dev/null && alias files='spf'
 
-# ── 13. ALIASES: TOOLS & ENTERTAINMENT ──────────────────────────
-alias postman='posting'
-alias montype='smassh'
-alias anime='ani-cli'
-alias song='rmpc'
-addyt() {
-  rmpc addyt "$*"
-}
-alias files='spf'
-syt() {
-  [[ -z "$*" ]] && echo "Provide a search query" && return 1
-  rmpc searchyt --interactive "$*"
-}
-
-
-# ── 14. COLORED MAN PAGES ───────────────────────────────────────
+# ── 13. COLORED MAN PAGES ───────────────────────────────────────
 # Uses LESS_TERMCAP vars for color in man; no extra deps.
 export LESS_TERMCAP_mb=$'\E[1;31m'
 export LESS_TERMCAP_md=$'\E[1;36m'
@@ -133,11 +131,11 @@ export LESS_TERMCAP_so=$'\E[1;44;33m'
 export LESS_TERMCAP_ue=$'\E[0m'
 export LESS_TERMCAP_us=$'\E[1;32m'
 
-# ── 15. ZOXIDE (smart cd) ───────────────────────────────────────
+# ── 14. ZOXIDE (smart cd) ───────────────────────────────────────
 # eval kept — it's zoxide's only supported init method and is fast.
 command -v zoxide &>/dev/null && eval "$(zoxide init zsh)"
 
-# ── 16. FZF — fuzzy finder with fd + bat previews ───────────────
+# ── 15. FZF — fuzzy finder with fd + bat previews ───────────────
 # All FZF config is gated behind a single command check.
 if command -v fzf &>/dev/null; then
   # fd as the backend — respects .gitignore, fast.
@@ -225,21 +223,20 @@ if command -v fzf &>/dev/null; then
   }
 fi
 
-# ── 17. YAZI — file manager with cwd-on-exit ────────────────────
-# y() wraps yazi so the shell follows its last directory.
-# Ctrl+Y opens yazi.
-y() {
-  local tmp cwd
-  tmp="$(mktemp -t "yazi-cwd.XXXXXX")" || return
-  command yazi "$@" --cwd-file="$tmp"
-  cwd="$(<"$tmp" 2>/dev/null)"
-  [[ -n "$cwd" && -d "$cwd" && "$cwd" != "$PWD" ]] && builtin cd -- "$cwd"
-  rm -f -- "$tmp"
-}
-bindkey -s '^Y' 'y\n'
-# alias yd='yazi /run/media/eren'
+# ── 16. YAZI — file manager with cwd-on-exit ────────────────────
+if command -v yazi &>/dev/null; then
+  y() {
+    local tmp cwd
+    tmp="$(mktemp -t "yazi-cwd.XXXXXX")" || return
+    command yazi "$@" --cwd-file="$tmp"
+    cwd="$(<"$tmp" 2>/dev/null)"
+    [[ -n "$cwd" && -d "$cwd" && "$cwd" != "$PWD" ]] && builtin cd -- "$cwd"
+    rm -f -- "$tmp"
+  }
+  bindkey -s '^Y' 'y\n'
+fi
 
-# ── 18. TMUX ────────────────────────────────────────────────────
+# ── 17. TMUX ────────────────────────────────────────────────────
 # Only loaded if tmux exists and we're not already inside a session
 # or in a GUI editor embedding a terminal.
 if command -v tmux &>/dev/null; then
@@ -258,7 +255,7 @@ if command -v tmux &>/dev/null; then
   }
 fi
 
-# ── 19. MEDIA & DOWNLOAD TOOLS ──────────────────────────────────
+# ── 18. MEDIA & DOWNLOAD TOOLS ──────────────────────────────────
 if command -v mpv &>/dev/null; then
   alias play='mpv'
   alias playbg='mpv --no-video'
@@ -271,8 +268,8 @@ if command -v mpv &>/dev/null; then
   }
 fi
 
-command -v axel   &>/dev/null && dln()  { axel -n 10 -a -o "$HOME/Downloads" "$@"; }
-command -v aria2c &>/dev/null && dl()   { aria2c -x 10 -s 10 -c --dir="$HOME/Downloads" "$@"; }
+command -v axel &>/dev/null && dln() { axel -n 10 -a -o "$HOME/Downloads" "$@"; }
+command -v aria2c &>/dev/null && dl() { aria2c -x 10 -s 10 -c --dir="$HOME/Downloads" "$@"; }
 
 if command -v yt-dlp &>/dev/null; then
   ytdl() {
@@ -332,41 +329,27 @@ ytsearchmp3() {
   ytsearch -a "$@"
 }
 
-# ── 20. CONDA — true lazy load (zero startup cost) ──────────────
-# The conda function shadow replaces itself on first call, then
-# forwards the original arguments. No eval at startup, no $PATH
-# pollution, no __conda_setup, no conda-related errors on login.
-conda() {
-  unfunction conda  # remove this stub
-  local _conda_bin="$HOME/miniconda3/bin/conda"
-  if [[ ! -x "$_conda_bin" ]]; then
-    echo "conda: miniconda3 not found at $_conda_bin" >&2
-    return 1
-  fi
-  eval "$("$_conda_bin" shell.zsh hook)"
-  conda "$@"   # now calls the real conda
-}
-
-# ── 21. ATUIN — shell history sync (replaces Ctrl+R) ────────────
-# Loaded last so it can override keybindings set above if present.
+# ── 19. OPTIONAL CONDA & ATUIN ──────────────────────────────────
+if [[ -x "$HOME/miniconda3/bin/conda" ]]; then
+  conda() {
+    unfunction conda
+    eval "$("$HOME/miniconda3/bin/conda" shell.zsh hook)"
+    conda "$@"
+  }
+fi
 command -v atuin &>/dev/null && eval "$(atuin init zsh --disable-up-arrow)"
 
-# ── 22. STARSHIP PROMPT ─────────────────────────────────────────
-# Must be the very last eval — other tools (zoxide, atuin) may
-# emit prompt-related code that starship needs to wrap.
+# ── 20. STARSHIP PROMPT ─────────────────────────────────────────
+# Keep prompt initialization last so it can wrap earlier shell integrations.
 command -v starship &>/dev/null && eval "$(starship init zsh)"
 
-# 23. zsh autosuggestions
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-# ╔══════════════════════════════════════════════════════════════╗
-# ║  END                                                        ║
-# ╚══════════════════════════════════════════════════════════════╝
- 
-autoload bashcompinit
-bashcompinit
-source "/home/eren/.local/share/bash-completion/completions/am"
-
-
-# Added by Antigravity CLI installer
-export PATH="/home/eren/.local/bin:$PATH"
+# Optional local plugins and AppImage Manager completion.
+[[ -r "$HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh" ]] && \
+  source "$HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh"
+[[ -r "$HOME/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" ]] && \
+  source "$HOME/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+if [[ -r "$HOME/.local/share/bash-completion/completions/am" ]]; then
+  autoload bashcompinit
+  bashcompinit
+  source "$HOME/.local/share/bash-completion/completions/am"
+fi
